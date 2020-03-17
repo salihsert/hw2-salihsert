@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: demo.junit_class_demo.math.MyMathTest
+Test set: demo.junit_class_demo.grades.HistogramGeneratorTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.068 sec
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.511 sec

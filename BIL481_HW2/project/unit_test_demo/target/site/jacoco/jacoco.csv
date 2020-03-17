@@ -1,6 +1,6 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Junit Class Demo,demo.junit_class_demo.grades,ChartIO,20,65,0,4,8,12,1,4,1,2
-Junit Class Demo,demo.junit_class_demo.grades,HistogramGenerator,107,0,4,0,24,0,7,0,5,0
+Junit Class Demo,demo.junit_class_demo.grades,ChartIO,15,70,0,4,7,13,0,5,0,3
+Junit Class Demo,demo.junit_class_demo.grades,HistogramGenerator,25,82,0,4,7,17,2,5,2,3
 Junit Class Demo,demo.junit_class_demo.grades,HistogramMain,18,0,0,0,5,0,2,0,2,0
 Junit Class Demo,demo.junit_class_demo.math,MyAdvancedMath,0,73,0,16,0,17,0,12,0,4
 Junit Class Demo,demo.junit_class_demo.math,MyMath,0,19,0,4,0,7,0,5,0,3

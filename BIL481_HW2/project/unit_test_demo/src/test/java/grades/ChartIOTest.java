@@ -25,9 +25,15 @@ public class ChartIOTest {
 	}
 
 	@Test (expected = NumberFormatException.class)
-	public void testInvalidGrades() {
+	public void test_readFile_InvalidGrades() {
 		String file = "src/test/resources/grades_invalid.csv";
 		io.readFile(file);
 	}
+
+	@Test (expected = Exception.class)
+	public void test_writefile1(){
+		io.writeFile("shjgfjsasda",null);
+	}
+
 
 }
